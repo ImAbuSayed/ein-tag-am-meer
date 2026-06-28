@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-tag-am-meer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ein Tag am Meer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-tag-am-meer/) |
+| **Get License** | [Secure Licensing Rights for Ein Tag am Meer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-tag-am-meer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Vergiss die Lichter der City, Babe, heute Nacht gehörst du mir
+> Ein Tag am Meer, nur der Mondschein, ich teil' meine Seele mit dir
+> Der Bass pumpt hart in der Brust, unsere Herzen so laut und so wild
+> Steig in den schwarzen AMG, du bist mein perfektes Bild
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3520c69d55e247f2ee3ff23fbe8bc57afc4f0fb81930023570c3b2a967eb692b` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

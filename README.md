@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-tag-am-meer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ein Tag am Meer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-tag-am-meer/) |
+| **Get License** | [Secure Licensing Rights for Ein Tag am Meer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-tag-am-meer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3520c69d55e247f2ee3ff23fbe8bc57afc4f0fb81930023570c3b2a967eb692b` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
